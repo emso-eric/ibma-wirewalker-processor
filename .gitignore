@@ -1,0 +1,8 @@
+*.nc
+**/datasets.xml
+erddap/conf/*
+erddap/log
+erddap/erddapData
+.idea
+.emso
+AGENTS.md
